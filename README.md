@@ -2,4 +2,5 @@
 Web Teknolojileri Proje Ödevi
 
 Buradan siteye göz atabilirsiniz:
-https://rawcdn.githack.com/DenizErdemAras/DEA-Audio-Website/main/Site/main.html
+
+https://raw.githack.com/DenizErdemAras/DEA-Audio-Website/main/Site/main.html
